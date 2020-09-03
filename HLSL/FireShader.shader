@@ -1,4 +1,4 @@
-﻿Shader "Custom/NewFire"
+﻿Shader "FireShader"
 {
     Properties
     {
